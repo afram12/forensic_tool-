@@ -1,10 +1,17 @@
-/To
-/clean_image.jpg
-/cridex.vmem
-/sample.pcap
-/sample_stego.png
-/secret.txt
-/stego_image.jpg
-/symbols
-/venv
-/windows.zip
+# Ignore Python virtual environment
+venv/
+
+# Ignore large downloaded files and directories
+symbols/
+windows.zip
+cridex.vmem
+
+# Ignore sample images and test files
+*.jpg
+*.jpeg
+*.png
+*.pcap
+secret.txt
+
+# Ignore accidental files
+To
