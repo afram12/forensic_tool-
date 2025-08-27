@@ -3,6 +3,7 @@ Authentication-Results: mx.google.com;
 From: "Important Alert" <security@google.com>
 To: "Target User" <victim@goodplace.com>
 Subject: Spoofing Test
+
 Date: Wed, 27 Aug 2025 13:00:00 +0530
 
 This is a test of a failed SPF check.

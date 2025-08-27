@@ -8,7 +8,7 @@ cridex.vmem
 
 # Ignore sample images and test files
 *.jpg
-*.jpeg
+*.jpeg 
 *.png
 *.pcap
 secret.txt  
