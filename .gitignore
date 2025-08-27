@@ -11,7 +11,7 @@ cridex.vmem
 *.jpeg
 *.png
 *.pcap
-secret.txt
+secret.txt  
 
 # Ignore accidental files
 To
